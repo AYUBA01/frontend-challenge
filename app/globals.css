@@ -45,7 +45,7 @@ body {
   background-repeat: no-repeat;
 }
 
-@media(max-width: 578){
+@media (max-width: 578px){
   body {
   background-size: 500px;
   background-position: 50px -50px;
